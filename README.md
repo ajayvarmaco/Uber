@@ -98,6 +98,10 @@ Here’s a concise version of the **Key Findings & Business Recommendations** se
 ## Power BI Dashboard
 - A Power BI dashboard was created to visualize revenue trends, tip behavior, and passenger counts over time.
 - Various KPIs such as revenue per passenger, tip percentages, and average fare per trip were plotted for quick insights.
+
+![Uber Dashboard](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/uber-dashboard-1.png)
+
+![Uber Dashboard 2](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/uber-dashboard-2.png)
   
 **Example Insights Visualized**:
 - Revenue per passenger across different payment types.
