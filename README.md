@@ -79,12 +79,6 @@ Here are resources related to the project:
 
 ## Key Findings & Business Recommendations
 
-Here’s a concise version of the **Key Findings & Business Recommendations** section for your README file:
-
----
-
-## Key Findings & Business Recommendations
-
 - **Promote Digital Payments**: Encourage credit card and app-based payments by offering discounts or loyalty points to improve revenue traceability and boost tipping.
 
 - **Optimize Peak Hours**: Focus driver allocation during peak hours (8 AM, 9 AM, 12 PM) and implement surge pricing to maximize driver earnings and meet demand.
@@ -147,8 +141,7 @@ This project aimed to analyze Uber's trip data to uncover insights into revenue 
 **Full Project Documentation**  
 Check the following file for the full project documentation: [Uber Revenue Optimization Project Documentation](#)
 
----
+![Uber Mysql](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/figma-docs.png)
 
-Feel free to explore the SQL scripts and interact with the Power BI dashboard for a deeper understanding of the analysis and recommendations.
 
 ![Uber Mysql](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/uberbottombanner2.png)
