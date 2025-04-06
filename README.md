@@ -1,3 +1,5 @@
+![Uber Mysql](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/ubertopbanner.png)
+
 # Uber - Operational Insights & Revenue Optimization
 
 ## Project Overview
@@ -148,3 +150,5 @@ Check the following file for the full project documentation: [Uber Revenue Optim
 ---
 
 Feel free to explore the SQL scripts and interact with the Power BI dashboard for a deeper understanding of the analysis and recommendations.
+
+![Uber Mysql](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/uberbottombanner.png)
