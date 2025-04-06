@@ -37,6 +37,8 @@ Here are resources related to the project:
 - Identified and handled NULL or missing values in critical columns.
 - Grouped trips by payment type to understand the distribution of cash vs. card payments.
 
+![Uber Mysql](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/mysql-vscode.png)
+
 ---
 
 ## Data Cleaning
