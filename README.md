@@ -141,7 +141,7 @@ The SQL queries used can be found in the `Uber_Queries.sql` file within this rep
 ---
 
 ## Conclusion
-This project aimed to analyze Uber's trip data to uncover insights into revenue trends, operational performance, and passenger behavior. The insights generated provide actionable recommendations for improving Uber's operational efficiency, revenue generation, and customer satisfaction. By optimizing resources during peak times, incentivizing drivers, and focusing on improving tip behavior, Uber can increase profitability and enhance service quality.
+This project aimed to analyze Uber's trip data to uncover insights into revenue trends, operational performance, and passenger behavior. The insights generated provide actionable recommendations for improving Uber's operational efficiency, revenue generation, and customer satisfaction.
 
 ---
 
