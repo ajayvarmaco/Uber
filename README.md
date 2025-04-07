@@ -77,6 +77,10 @@ Here are resources related to the project:
 
 ---
 
+![Uber Doc](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/Uber_doc_snap.png)
+
+---
+
 ## Key Findings & Business Recommendations
 
 - **Promote Digital Payments**: Encourage credit card and app-based payments by offering discounts or loyalty points to improve revenue traceability and boost tipping.
