@@ -79,6 +79,9 @@ Here are resources related to the project:
 
 ![Uber Doc](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/Uber_doc_snap.png)
 
+**Full Project Documentation**  
+Check the uber_project_doc file in the repository for the complete project documentation:
+
 ---
 
 ## Key Findings & Business Recommendations
@@ -143,7 +146,7 @@ This project aimed to analyze Uber's trip data to uncover insights into revenue 
 ---
 
 **Full Project Documentation**  
-Check the following file for the full project documentation: [Uber Revenue Optimization Project Documentation](#)
+Check the uber_project_doc file in the repository for the full project documentation:
 
 ![Uber Mysql](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/figma-docs.png)
 
